@@ -1,9 +1,4 @@
 #include <iostream>   
-#include <string>  
-#include <ctime>
-#include <cstdlib>
-
-
 using namespace std;
 
 
@@ -221,4 +216,5 @@ int main()
     StartGame();
     
     return 0;
+
 }
